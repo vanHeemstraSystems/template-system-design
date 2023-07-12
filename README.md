@@ -3,6 +3,10 @@ template-system-design
 
 Based on "Slack Architecture" at https://systemdesign.one/slack-architecture/
 
+Classrooms using this template:
+
+- [Classroom - System Design](https://classroom.github.com/classrooms/7894122-classroom-system-design)
+
 # Main Title: [NAME] System Design
 
 The target audience for this System Design falls into the following roles:
